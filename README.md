@@ -36,7 +36,7 @@ Solution Requirements:
 * At least one method/function. (The main method is not included in this count)
 
 ### Notes
-Even though you are free to write this however you would like within the constraints layed out, try to follow the single responsibility principle. I would suggest that you should attempt to make the User Interface handle the UI, the WineItem and WineItemCollection handle representing the data, CSVProcessor handle obtaining the data, and the Main handle orcastrating all of it.
+Even though you are free to write this however you would like within the constraints layed out, try to follow the single responsibility principle. I would suggest that you should attempt to make the User Interface handle the UI, the WineItem and WineItemCollection handle representing the data, CSVProcessor handle obtaining the data, and the Main handle orchestrating all of it.
 
 Data that needs to move from one class to another should do so using primitive types such as int, string, char, double as much as possible. This can be ignored for classes that are obviously related such as WineItem and WineItemCollection. The goal is to future proof the program. Think of what if cases such as the following:
 * What if we wanted to change out the User Interface with a different one? How much work would need to be done to fix it?
