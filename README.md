@@ -4,7 +4,7 @@
 
 ## Author
 
-
+Zachery Holderman
 
 ## Description
 
@@ -84,5 +84,6 @@ Suggestion/Hints:
 | **Total**           | **100**|
 
 ## Outside Resources Used
-
+Msdn.net, stackoverflow
 ## Known Problems, Issues, And/Or Errors in the Program
+Could not figure out how to add a new wine Item to the list...
